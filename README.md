@@ -1,4 +1,4 @@
-# 🛡️ Cybersecurity YouTube Channels Guide
+# 🛡️ Cybersecurity YouTube(YT) Channels Guide
 
 A curated collection of the best YouTube channels for learning cybersecurity, organized by specialty and focus area.
 
